@@ -1,6 +1,11 @@
 # Sprint 4 Assessment Checklist
 This checklist helps you double check your work for Sprint 4.
 
+## Meetings
+Make sure your meetings (team meetings, supervision meetings and meetings with industry partners) are documented in Confluence (and only). 
+
+- [ ] Meetings are recorded in Confluence and only. They were NOT exported to Github as they're part of internal process.
+
 
 ## Release notes
 Make sure that:
